@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/c/spidev/spidev-lib/sample/spidev-testcpp.cc
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+spidev_lib++.h
+-
+
+/home/pi/c/spidev/spidev-lib/src/spidev_lib++.h
+stdint.h
+-
+
