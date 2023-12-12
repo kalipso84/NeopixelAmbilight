@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/loopback_example_app.dir/main.cc.o -o loopback_example_app  ../../libs/spidevpp/libspidevpp.a -lbcm2835 

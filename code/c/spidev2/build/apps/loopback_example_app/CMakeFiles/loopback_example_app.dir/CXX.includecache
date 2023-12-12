@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/c/spidev2/spidevpp/apps/loopback_example_app/main.cc
+spidevpp/spi.h
+-
+iostream
+-
+
+/home/pi/c/spidev2/spidevpp/libs/spidevpp/spi.h
+linux/spi/spidev.h
+-
+chrono
+-
+string
+-
+cstdint
+-
+cstddef
+-
+iostream
+-
+
