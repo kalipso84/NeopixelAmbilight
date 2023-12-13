@@ -3,7 +3,8 @@
 #### Neopixel Amblight project
 - Old - https://youtu.be/yg12cg38Jvo
 - New - https://youtu.be/0Fo2XW7LO6k
-- Final - ![ambilight])(https://www.youtube.com/watch?v=dcxjG4acU1E)
+- Final - https://www.youtube.com/watch?v=dcxjG4acU1E
+- Neopixel assembly driver [neopixel driver](NeopixelDriver.md)
 
 ![rerport OR](pictures/zakljucekOR.png)
 
