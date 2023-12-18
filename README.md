@@ -1,6 +1,6 @@
 
 
-#### Neopixel Amblight project
+#### Neopixel Amblight project (NeoLightFX)
 - Old - https://youtu.be/yg12cg38Jvo
 - New - https://youtu.be/0Fo2XW7LO6k
 - Final - https://www.youtube.com/watch?v=dcxjG4acU1E
